@@ -1,0 +1,13 @@
+name: ProjApp
+title: ProjApp
+username:
+account: damiangoli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3002672
+bundleId: 3734376
+url: https://damiangoli.shinyapps.io/ProjApp/
+when: 1602588341.31551
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Current Voltage Plots-rpubs.html|Current Voltage Plots.md|Current Voltage Plots.Rpres|IVPlot.R|IVtest.html|IVtest.Rmd|Current Voltage Plots-figure/unnamed-chunk-1-1.png|Current Voltage Plots-figure/unnamed-chunk-2-1.png
